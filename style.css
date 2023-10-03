@@ -1,0 +1,28 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;     
+}
+
+body{
+    background-color: rgb(240, 219, 191);
+}
+
+img {
+    height:auto;
+    width: 20%;
+}
+
+h1{
+    text-align: center;
+    margin-top: 7vh;
+}
+
+h2{
+    float: right;
+    padding: 10px;
+    margin-top: 550px;
+}
+
+
